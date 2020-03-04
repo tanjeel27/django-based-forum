@@ -1,0 +1,4 @@
+Django==2.0.7
+django-crispy-forms==1.8.1
+pytz==2019.3
+whitenoise==5.0.1
