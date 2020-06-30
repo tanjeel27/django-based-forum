@@ -25,7 +25,7 @@ SECRET_KEY = '&0ht6s)n-$j_%%a4v5t0j8&4(gen2c3mrdk65*+rwd_uwbaa0h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://dj-forum-tanjeel.herokuapp.com/']
+ALLOWED_HOSTS = ['dj-forum-tanjeel.herokuapp.com','127.0.0.1']
 
 
 # Application definition
